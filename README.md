@@ -78,7 +78,7 @@ After the above installation is complete, start working on components. Import th
 
 ## Deployed Application
 
-You can view my portfolio [here.]()
+You can view my portfolio [here.](https://laboettcher.github.io/react-portfolio-challenge/#/)
 
 ## License 
 
@@ -93,3 +93,5 @@ You can view my portfolio [here.]()
 * [React](https://legacy.reactjs.org/)
 
 * [Reactgo](https://reactgo.com/react-refresh-page/)
+
+* [React with GitHub Pages](https://github.com/gitname/react-gh-pages)
