@@ -3,7 +3,7 @@
 
 ## Description
 
-This challenge was meant to practice React skills and to create a professional portfolio to showcase projects. React makes it much easier to style webpages through the use of components, or smaller chunks of a full page's code. These components can be easily implemented and repurposed, rather than creating several different pages, each with their own styling.
+This challenge was meant to practice React skills and to create a professional portfolio to showcase projects. React makes it much easier to style webpages through the use of components, or smaller chunks of a full page's code. These components can be easily implemented and repurposed, rather than creating several different pages each with their own styling.
 
 ## Tabe of Contents
 
