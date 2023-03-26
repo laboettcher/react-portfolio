@@ -88,7 +88,7 @@ You can view my portfolio [here.](https://laboettcher.github.io/react-portfolio-
 
 ## References
 
-* [Codex World](https://www.codexworld.com/how-to/reload-page-after-specific-time-5-seconds-in-javascript/#:~:text=setTimeout(function()%7B%20window,time%20as%20per%20your%20needs.)
+* [Codex World](https://www.codexworld.com/how-to/reload-page-after-specific-time-5-seconds-in-javascript/#:~:text=setTimeout(function()%7B%20window,time%20as%20per%20your%20needs.))
 
 * [React](https://legacy.reactjs.org/)
 
