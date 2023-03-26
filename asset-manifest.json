@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-challenge/static/css/main.44183cae.chunk.css",
+    "main.js": "/react-portfolio-challenge/static/js/main.2a0737d0.chunk.js",
+    "main.js.map": "/react-portfolio-challenge/static/js/main.2a0737d0.chunk.js.map",
+    "runtime-main.js": "/react-portfolio-challenge/static/js/runtime-main.c86625b1.js",
+    "runtime-main.js.map": "/react-portfolio-challenge/static/js/runtime-main.c86625b1.js.map",
+    "static/js/2.3c6e19eb.chunk.js": "/react-portfolio-challenge/static/js/2.3c6e19eb.chunk.js",
+    "static/js/2.3c6e19eb.chunk.js.map": "/react-portfolio-challenge/static/js/2.3c6e19eb.chunk.js.map",
+    "static/js/3.3698173b.chunk.js": "/react-portfolio-challenge/static/js/3.3698173b.chunk.js",
+    "static/js/3.3698173b.chunk.js.map": "/react-portfolio-challenge/static/js/3.3698173b.chunk.js.map",
+    "index.html": "/react-portfolio-challenge/index.html",
+    "service-worker.js": "/react-portfolio-challenge/service-worker.js",
+    "service-worker.js.LICENSE.txt": "/react-portfolio-challenge/service-worker.js.LICENSE.txt",
+    "service-worker.js.map": "/react-portfolio-challenge/service-worker.js.map",
+    "static/css/main.44183cae.chunk.css.map": "/react-portfolio-challenge/static/css/main.44183cae.chunk.css.map",
+    "static/js/2.3c6e19eb.chunk.js.LICENSE.txt": "/react-portfolio-challenge/static/js/2.3c6e19eb.chunk.js.LICENSE.txt",
+    "static/media/avatar.98d440f2.jpg": "/react-portfolio-challenge/static/media/avatar.98d440f2.jpg",
+    "static/media/mood-mixer.f7eeea8d.gif": "/react-portfolio-challenge/static/media/mood-mixer.f7eeea8d.gif",
+    "static/media/work-wrangler.0e8447a6.png": "/react-portfolio-challenge/static/media/work-wrangler.0e8447a6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c86625b1.js",
+    "static/js/2.3c6e19eb.chunk.js",
+    "static/css/main.44183cae.chunk.css",
+    "static/js/main.2a0737d0.chunk.js"
+  ]
+}
