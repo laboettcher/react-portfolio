@@ -11,8 +11,12 @@ function Contact() {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!errorMessage) {
+      setErrorMessage('Your mesage has been sent!');
       console.log('Submit Form', formState);
-    }
+    } 
+    setTimeout(function(){
+      window.location.reload();
+    }, 5000);
   };
 
   const handleChange = (e) => {
