@@ -1,9 +1,9 @@
 import React from 'react';
 
 import PlaceHolderOne from "../../images/placeholders.jpg";
-import PlaceHolderTwo from "../../images/placeholders.jpg";
 import MoodMixer from "../../images/mood-mixer.gif";
 import WorkWrangler from "../../images/work-wrangler.png";
+import VroomVroom from "../../images/vroom-vroom.png"
 
 function Portfolio() {
   return (
@@ -51,13 +51,16 @@ function Portfolio() {
         <div class="col">
           <div class="card">
             <img
-              src={PlaceHolderOne}
+              src={VroomVroom}
               alt="Placeholder"
               class="card-img-top"
             />
             <div class="card-body">
-              <a href="https://github.com/laboettcher" target="_blank" rel="noreferrer">
+              <a href="https://github.com/sjuan634/vROOM-vROOM" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
+              </a>
+              <a href="https://prj3-vroom-vroom.herokuapp.com/" target="_blank" rel="noreferrer">
+                <button>Application</button>
               </a>
             </div>
           </div>
@@ -67,7 +70,7 @@ function Portfolio() {
         <div class="col">
           <div class="card">
             <img
-              src={PlaceHolderTwo}
+              src={PlaceHolderOne}
               alt="Placeholder"
               class="card-img-top"
             />
