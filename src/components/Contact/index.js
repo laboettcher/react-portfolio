@@ -63,6 +63,7 @@ function Contact() {
         )}
         <button data-testid="button" type="submit">Submit</button>
       </form>
+      <h3>Or Email Me: laboettcher@outlook.com</h3>
     </section>
   );
 }
