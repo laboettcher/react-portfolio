@@ -20,7 +20,6 @@ function Portfolio() {
               class="card-img-top"
             />
             <div class="card-body">
-
               <a href="https://github.com/sieraford/mood-mixer" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
@@ -79,8 +78,6 @@ function Portfolio() {
               <a href="https://github.com/laboettcher/tech-talk-blog" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-            </div>
-            <div class="card-body">
               <a href="https://tech-talk-blog-2.herokuapp.com/" target="_blank" rel="noreferrer">
                 <button>Application</button>
               </a>
@@ -88,7 +85,8 @@ function Portfolio() {
           </div>
         </div>
 
-        <div class="card">
+        <div class="col">
+          <div class="card">
             <img
               src={NoteTaker}
               alt="Note Taker"
@@ -98,8 +96,6 @@ function Portfolio() {
               <a href="https://github.com/laboettcher/Express-Note-Taker" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-            </div>
-            <div class="card-body">
               <a href="https://note-taker-express-challenge.herokuapp.com/" target="_blank" rel="noreferrer">
                 <button>Application</button>
               </a>
@@ -107,7 +103,8 @@ function Portfolio() {
           </div>
         </div>
 
-        <div class="card">
+        <div class="col">
+          <div class="card">
             <img
               src={WeatherDashboard}
               alt="Weather Dashboard"
@@ -117,11 +114,11 @@ function Portfolio() {
               <a href="https://github.com/laboettcher/Weather-Dashboard" target="_blank" rel="noreferrer">
                 <button>GitHub</button>
               </a>
-            </div>
-            <div class="card-body">
               <a href="https://laboettcher.github.io/Weather-Dashboard/" target="_blank" rel="noreferrer">
                 <button>Application</button>
               </a>
+            </div>
+          </div>
         </div>
 
       </div>
